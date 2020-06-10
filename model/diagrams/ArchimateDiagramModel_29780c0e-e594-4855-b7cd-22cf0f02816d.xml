@@ -62,7 +62,7 @@
     </sourceConnections>
     <bounds
         x="71"
-        y="372"
+        y="396"
         width="120"
         height="55"/>
     <archimateElement
@@ -263,7 +263,7 @@
         x="71"
         y="276"
         width="120"
-        height="55"/>
+        height="85"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_e64627cc-95c1-4f59-b1cc-cd7a628c6069.xml#e64627cc-95c1-4f59-b1cc-cd7a628c6069"/>
